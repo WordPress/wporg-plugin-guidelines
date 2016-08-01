@@ -1,0 +1,3 @@
+**14. Frequent commits can be seen as gaming the Recently Updated lists.**
+
+All commits must include a commit message, preferably describing the content of the commit in reasonable detail. Frequent ‘trash’ commit messages like ‘update’ or ‘cleanup’ makes it hard for others to follow changes. Commits that only tweak minor aspects of the readme cause undue strain on the system, as they require a plugin’s zips to be rebuilt, and should be avoided. Only commit code that is ready for deployment.
