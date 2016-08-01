@@ -1,4 +1,4 @@
-**6. Serviceware _is_ permitted in the repository. **
+**6. Serviceware _is_ permitted in the repository.**
 
 Plugins that act as an interface to some external third party service (e.g. a video hosting site) are allowed, even for paid services. The service itself must provide functionality of substance and be clearly documented in the readme file submitted with the plugin, preferably with a link to the service’s Terms of Use.
 

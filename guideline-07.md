@@ -4,7 +4,7 @@ In the interest of protecting user privacy, plugins may not contact external ser
 
 This restriction includes the following:
 
-a) No unauthorized collection of user data. Users may be asked to submit information but it cannot be automatically recorded without  explicit confirmation from the user. 
-b) Intentionally misleading users into submitting information as a requirement for use of the plugin itself is prohibited.
-c) Images and scripts should be loaded locally as part of the plugin whenever possible. If external data (such as blocklists) is required, their inclusion must be made clear to the user.
-d) Any third party advertisement mechanisms used within the plugin must  have all tracking features disabled by default. Advertisement mechanisms which do not have the capability of disabling user tracking features are prohibited.
+* No unauthorized collection of user data. Users may be asked to submit information but it cannot be automatically recorded without  explicit confirmation from the user. 
+* Intentionally misleading users into submitting information as a requirement for use of the plugin itself is prohibited.
+* Images and scripts should be loaded locally as part of the plugin whenever possible. If external data (such as blocklists) is required, their inclusion must be made clear to the user.
+* Any third party advertisement mechanisms used within the plugin must  have all tracking features disabled by default. Advertisement mechanisms which do not have the capability of disabling user tracking features are prohibited.

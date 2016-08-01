@@ -9,6 +9,7 @@ If you have suggestions to improve the documentation, or questions about it, ple
 ## PLUGIN SUBMISSIONS
 
 In order to submit a plugin, [there are three steps](https://developer.wordpress.org/plugins/wordpress-org/#getting-plugins-hosted):
+
 1. Register on WordPress.org with a valid, regularly checked email address. If you are submitting a plugin on behalf of a company, use an official company email for verification.
 2. Whitelist plugins@wordpress.org in your email client to ensure you receive email communications.
 3. Submit your plugin with a brief overview of what it does and a link to a complete, ready to go zip of the plugin.
