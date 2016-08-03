@@ -1,3 +1,3 @@
-**10. The plugin must not embed external links on the public site (like a “powered by” link) without explicitly asking the user’s permission.**
+**10. The plugin must not embed external links or credits on the public site without explicitly asking the user’s permission.**
 
-Any such options available in the plugin must default to NOT show the link. Advertising from third parties is permitted only when user tracking features are disabled by default.
+All "Powered By" or credit displays and links included in the plugin code must be optional and default to _not_ show the links. Users must opt-in to displaying any and all credits and links. Plugins may not require credit or links in order to function. Services are permitted to brand their output as they see fit, provided the code is handled in the service and not the plugin.

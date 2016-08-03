@@ -4,7 +4,7 @@ This is the online repository for the proposed revamp of the WordPress.org Plugi
 
 ## Introduction
 
-These guidelines are intended to replace the ones currently found on (https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/)[https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/]
+These guidelines are intended to replace the ones currently found in the (Plugin Developer Handbook)[https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/]
 
 The plugin review team has already gone through and made serious renovations in order to clarify intent and meaning. Many kudos to the focus groups for reading and reviewing these, to help clarify them further.
 
@@ -21,7 +21,7 @@ The plugin review team has already gone through and made serious renovations in 
 7. [The plugin may not “phone home” or track users without their informed, explicit, opt-in consent.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-07.md)
 8. [The plugin may not send executable code via third-party systems.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-08.md)
 9. [The plugin and its developers must not do anything illegal, dishonest, or morally offensive.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-09.md)
-10. [The plugin must not embed external links on the public site (like a “powered by” link) without explicitly asking the user’s permission.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-10.md)
+10. [The plugin must not embed external links or credits on the public site without explicitly asking the user’s permission.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-10.md)
 11. [The plugin should not hijack the blog admin.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-11.md)
 12. [Public facing pages on WordPress.org may not contain “sponsored” or “affiliate” links or third party ads.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-12.md)
 13. [The plugin page in the directory should include no more than 12 tags.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-13.md)
