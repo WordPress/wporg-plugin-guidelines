@@ -1,4 +1,4 @@
-**5. Trialware is _not_ allowed in the repository.**
+**5. Trialware is _not_ allowed in the directory.**
 
 Attempting to upsell the user on other products and features is acceptable within limits.
 
