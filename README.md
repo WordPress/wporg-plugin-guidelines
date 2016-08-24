@@ -33,7 +33,7 @@ The plugin review team has already gone through and made serious renovations in 
 
 ## Feedback
 
-If you feel a guideline’s explanation is unclear, please create an issue with what you feel should be changed and why. All grammar/spelling corrections are greatly welcome. We’re trying to write these for all levels of developers, as well as people who may not speak English proficiently. Using words like ‘obsequious’ should be avoided (nb: That’s mostly to Mika who uses those words regularly).
+If you feel a guideline’s explanation is unclear, please create an issue or a pull request with what you feel should be changed and why. All grammar/spelling corrections are greatly welcome. We’re trying to write these for all levels of developers, as well as people who may not speak English proficiently. Using words like ‘obsequious’ should be avoided (nb: That’s mostly to Mika who uses those words regularly).
 
 All feedback should be opened as [issues](https://github.com/Ipstenu/wporg-plugin-guidelines) in the tracker.
 
