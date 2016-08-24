@@ -4,6 +4,6 @@ Externally loading code from documented services is permitted, however all commu
 
 * Serving updates or otherwise installing plugins, themes, or add-ons from servers other than WordPress.org’s
 * Installing premium versions of the same plugin
-* Calling third party CDNs for reasons other than font inclusions; all non-service related javascript and CSS must be included locally
+* Calling third party CDNs for reasons other than font inclusions; all non-service related JavaScript and CSS must be included locally
 * Using third party services to manage regularly updated lists of data, when not explicitly permitted in the service’s terms of use
 * Using iframes to connect admin pages; APIs should be used to minimize security risks
