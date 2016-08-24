@@ -1,4 +1,4 @@
-# WordPress.org Plugin Repository Guidelines
+# WordPress Plugin Directory Guidelines
 
 This is the online repository for the proposed revamp of the WordPress.org Plugin Guidelines.
 
@@ -14,10 +14,10 @@ The plugin review team has already gone through and made serious renovations in 
 
 1. [Plugins must be compatible with the GNU General Public License v2, or any later version.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-01.md)
 2. [Include a license in your plugin with a license.txt file.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-02.md)
-3. [A stable version of your plugin must be available from your WordPress.org repository page.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-03.md)
+3. [A stable version of your plugin must be available from its WordPress Plugin Directory page.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-03.md)
 4. [Keep your code (mostly) human readable.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-04.md)
-5. [Trialware is not allowed in the repository.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-05.md)
-6. [Serviceware is permitted in the repository.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-06.md)
+5. [Trialware is not allowed in the directory.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-05.md)
+6. [Serviceware is permitted in the directory.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-06.md)
 7. [The plugin may not “phone home” or track users without their informed, explicit, opt-in consent.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-07.md)
 8. [The plugin may not send executable code via third-party systems.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-08.md)
 9. [The plugin and its developers must not do anything illegal, dishonest, or morally offensive.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-09.md)
@@ -27,7 +27,7 @@ The plugin review team has already gone through and made serious renovations in 
 13. [The plugin page in the directory should include no more than 12 tags.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-13.md)
 14. [Frequent commits can be seen as gaming the Recently Updated lists.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-14.md)
 15. [All code changes to a plugin that has a Stable Tag of “trunk” must result in the version number being upgraded.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-15.md)
-16. [A complete plugin must be available at the time of submitting the plugin request to the repository.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-16.md)
+16. [A complete plugin must be available at the time of submitting the plugin request to the directory.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-16.md)
 17. [Respect trademarks.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-17.md)
 18. [We reserve the right to alter the Plugin Guidelines at any time with or without notice.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-18.md)
 
