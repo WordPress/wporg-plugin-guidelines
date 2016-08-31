@@ -4,7 +4,7 @@ This is the online repository for the proposed revamp of the WordPress.org Plugi
 
 ## Introduction
 
-These guidelines are intended to replace the ones currently found in the (Plugin Developer Handbook)[https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/]
+These guidelines are intended to replace the ones currently found in the [Plugin Developer Handbook](https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/).
 
 The plugin review team has already gone through and made serious renovations in order to clarify intent and meaning. Many kudos to the focus groups for reading and reviewing these, to help clarify them further.
 
