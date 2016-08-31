@@ -1,4 +1,4 @@
-**11. The plugin should not hijack the blog admin.**
+**11. The plugin should not hijack the admin dashboard.**
 
 Users prefer and expect plugins to feel like part of WordPress. Constant nags and overwhelming the admin dashboard with unnecessary alerts detract from this experience.
 
