@@ -1,3 +1,3 @@
 **2. Plugins may only include files the developer has the legal rights/permissions to use.**
 
-In addition to GPL compatibility, plugins may only contain files that the developer has the right to upload, and the users have the right to use. If, for example, a contract states the code will not be publicly released, then it cannot be hosted on the Directory. Similarly, if there is no way to validate the licensing of a plugin's code and confirm its compliance with the guidelines, it cannot be hosted on WordPress.org.
+In addition to GPLv2 (or later) compatibility, plugins may only contain files that the developer has the right to upload, and the users have the right to use. If, for example, a contract states the code will not be publicly released, then it cannot be hosted on the Directory. Similarly, if there is no way to validate the licensing of a plugin's code and confirm its compliance with the guidelines, it cannot be hosted on WordPress.org.
