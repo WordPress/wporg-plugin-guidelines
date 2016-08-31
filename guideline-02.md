@@ -1,3 +1,3 @@
-**2. Include a license in your plugin with a license.txt file.**
+**2. Plugins may only include files the developer has the legal rights/permissions to use.**
 
-Without a license.txt file, or referencing and/or declaring a license within code comments or a `readme.txt` file, the plugin and all its components are considered GPLv2 or later.
+In addition to GPL compatibility, plugins may only contain files that the developer has the right to upload, and the users have the right to use. If, for example, a contract states the code will not be publicly released, then it cannot be hosted on the Directory. Similarly, if there is no way to validate the licensing of a plugin's code and confirm its compliance with the guidelines, it cannot be hosted on WordPress.org.
