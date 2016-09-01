@@ -23,7 +23,7 @@ The plugin review team has already gone through and made serious renovations in 
 9. [The plugin and its developers must not do anything illegal, dishonest, or morally offensive.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-09.md)
 10. [The plugin must not embed external links or credits on the public site without explicitly asking the user’s permission.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-10.md)
 11. [The plugin should not hijack the blog admin.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-11.md)
-12. [Public facing pages on WordPress.org may not contain “sponsored” or “affiliate” links or third party ads.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-12.md)
+12. [Public facing pages on WordPress.org may not contain “sponsored” or “affiliate” links or third party advertisements.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-12.md)
 13. [The plugin page in the directory should include no more than 12 tags.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-13.md)
 14. [Frequent commits can be seen as gaming the Recently Updated lists.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-14.md)
 15. [All code changes to a plugin that has a Stable Tag of “trunk” must result in the version number being upgraded.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-15.md)
