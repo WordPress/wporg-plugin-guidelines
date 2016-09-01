@@ -1,3 +1,3 @@
 **12. Public facing pages on WordPress.org may not contain “sponsored” or “affiliate” links or third party advertisements.**
 
-Public facing pages include the readmes and translation files. If such links are included on settings pages, they must be disclosed.
+Public facing pages, including readmes and translation files, may not contain affiliate or sponsored links. Directly required products (such as themes or other plugins required for the plugin's use), are permitted within moderation. Related links may be included on the WordPress Admin settings pages for the specific plugin. In all cases, affiliate links must be disclosed and must directly link to the affiliate service, not a redirect or cloaked URL.
