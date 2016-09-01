@@ -1,3 +1,3 @@
-**2. Plugins may only include files the developer has the legal rights/permissions to use.**
+**2. Plugin developers are responsible for the files they upload.**
 
-In addition to GPLv2 (or later) compatibility, plugins may only contain files that the developer has the right to upload, and the users have the right to use. If, for example, a contract states the code will not be publicly released, then it cannot be hosted on the Directory. Similarly, if there is no way to validate the licensing of a plugin's code and confirm its compliance with the guidelines, it cannot be hosted on WordPress.org.
+It is the sole responsibility of the plugin developer to ensure all files included in their plugins comply with the guidelines. In addition, plugins may only contain files that the developer has the right to upload, and the users have the right to use. If, for example, a developer's contract states they will not publicly release the code, then it cannot be hosted on the Directory. Similarly, if there is no way to validate the licensing of a library used within a plugin, and confirm its compliance with the guidelines, it cannot be included.
