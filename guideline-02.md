@@ -1,3 +1,3 @@
-**2. Include a license in your plugin with a license.txt file.**
+**2. Plugin developers are responsible for the files they upload.**
 
-Without a license.txt file, or referencing and/or declaring a license within code comments or a `readme.txt` file, the plugin and all its components are considered GPLv2 or later.
+It is the sole responsibility of the plugin developer to ensure all files included in their plugins comply with the guidelines. In addition, plugins may only contain files that the developer has the right to upload, and the users have the right to use. If, for example, a developer's contract states they will not publicly release the code, then it cannot be hosted on the Directory. Similarly, if there is no way to validate the licensing of a library used within a plugin, and confirm its compliance with the guidelines, it cannot be included.
