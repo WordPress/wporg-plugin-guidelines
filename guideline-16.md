@@ -1,3 +1,1 @@
-**16. A complete plugin must be available at the time of submitting the plugin request to the directory.**
-
-All plugins are examined prior to approval, which is why a link to a zip is required. Names cannot be “reserved” for future use. Directory names for approved plugins that are not used within a reasonable amount of time may be given to other developers.
+**16. A complete plugin must be available at the time of submitting the plugin request to the repository.** All plugins are examined it prior to approval, which is why a link to a zip is required. We do not “reserve” names for future usage. Approved plugins may be taken away if the plugin is not committed to the SVN in a reasonable amount of time.

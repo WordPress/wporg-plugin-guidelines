@@ -1,7 +1,3 @@
-**5. Trialware is _not_ allowed in the directory.**
+**5. Trialware is not allowed in the repository.** It’s perfectly fine to attempt to upsell the user on other products and features, but a) not in an annoying manner and b) not by disabling functionality after some time period.
 
-Attempting to upsell the user on other products and features is acceptable within limits.
-
-1. Upsell notifications should not be overly prominent or annoying.
-2. Plugins may not contain functionality that is crippled or locked, only to be unlockable by payment or upgrade. Paid functionality must be part of an externally hosted service or a separate plugin, that is not hosted on wordpress.org.
-3. Plugins may not disable included functionality after a trial period or quota.
+Similarly, you cannot “cripple” functionality in the plugin and then ask for payment or provide a code to unlock the functionality. All code hosted by WordPress.org servers must be free and fully-functional. If you want to sell advanced features for a plugin (such as a “pro” version), then you must sell and serve that code from your own site, we will not host it on our servers.

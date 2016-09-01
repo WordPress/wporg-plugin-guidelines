@@ -1,3 +1,5 @@
-**14. Frequent commits can be seen as gaming the Recently Updated lists.**
+**14. Frequent commits can be seen as gaming the Recently Updated lists.** Please limit commits to prevent this.
 
-All commits must include a commit message, preferably describing the content of the commit in reasonable detail. Frequent ‘trash’ commit messages like ‘update’ or ‘cleanup’ makes it hard for others to follow changes. Commits that only tweak minor aspects of the readme cause undue strain on the system, as they require a plugin’s zips to be rebuilt, and should be avoided. Only commit code that is ready for deployment.
+All commits should include a commit message describing the content of the commit, in reasonable detail. Frequent ‘trash’ commit messages like ‘update’ or ‘cleanup’ makes it hard for other developers and users to follow what is changing in the plugin. Commits that only tweak minor aspects of the readme cause undue strain on the system, as they require a plugin’s zips to be rebuilt, and should be avoided. Blank commit messages are not permitted by our system and are automatically rejected.
+
+Only commit code that is ready for deployment. Do not attempt to A/B test a readme in our system. Commit messages that are placeholders may be cause for removal of the plugin from the directory.

@@ -1,5 +1,1 @@
-**18. We reserve the right to alter the Plugin Guidelines at any time with or without notice.**
-
-We reserve the right to update these guidelines at any time as we feel necessary.
-
-We reserve the right to arbitrarily disable or remove any plugin from the directory for any reason whatsoever, even for reasons not explicitly covered by these guidelines.  Our intent is to enforce these guidelines with as much fairness as humanly possible to ensure plugins’ quality and the safety of their users.
+**18. We reserve the right to alter this list in the future.** We reserve the right to arbitrarily disable or remove any plugin for any reason whatsoever. Basically, this is our repository, and we will attempt to maintain a standard of conduct and code quality. We may not always succeed, but that is our goal, and we will do whatever we feel is necessary in furtherance of that goal.

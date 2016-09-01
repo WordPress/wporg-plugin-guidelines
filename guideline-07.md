@@ -1,10 +1,6 @@
-**7. The plugin may not “phone home” or track users without their informed, explicit, opt-in consent.**
+**7. No “phoning home” without user’s informed consent.** This seemingly simple rule actually covers several different aspects:
 
-In the interest of protecting user privacy, plugins may not contact external servers without the explicit consent of the user. This is called ‘opt in.’  Documentation on how any user data is collected, and used, should be included in the plugin’s readme, preferably with a clearly stated privacy policy.
-
-This restriction includes the following:
-
-* No unauthorized collection of user data. Users may be asked to submit information but it cannot be automatically recorded without  explicit confirmation from the user. 
-* Intentionally misleading users into submitting information as a requirement for use of the plugin itself is prohibited.
-* Images and scripts should be loaded locally as part of the plugin whenever possible. If external data (such as blocklists) is required, their inclusion must be made clear to the user.
-* Any third party advertisement mechanisms used within the plugin must  have all tracking features disabled by default. Advertisement mechanisms which do not have the capability of disabling user tracking features are prohibited.
+* No unauthorized collection of user data. For example, sending the admin’s email address back to your own servers without permission of the user is not allowed; but asking the user for an email address and collecting if they choose to submit it is fine. All actions taken in this respect MUST be of the user’s doing, not automatically done by the plugin.
+* All images and scripts shown should be part of the plugin. These should be loaded locally. If the plugin does require that data is loaded from an external site (such as blocklists) this should be made clear in the plugin’s admin screens or description. The point is that the user must be informed of what information is being sent where.
+* If the plugin does include advertising from a third party service, then it must default to completely disabled in order to prevent tracking information from being collected from the user without their consent.
+* Attempts of “ad spamming”, or abusing the guidelines of an advertising system such as Google Ads (which does not permit ads on the WP Dashboard), will result in your plugin being removed and your actions reported to the advertising system.

@@ -1,3 +1,5 @@
-**4. Keep your code (mostly) human readable.**
+**4. No obfuscated code.** Intentionally obfuscated code is not allowed in the repository under any circumstances.
 
-Intentionally obscuring code by hiding it with techniques or systems similar to `p,a,c,k,e,r`'s obfuscate feature, uglify's mangle, or unclear naming conventions such as `$z12sdf813d`, is not permitted in the directory. Unfortunately, many people use such methods to try and hide malicious code, such as backdoors or tracking. In addition, WordPress code is intended for anyone to be able to learn from, edit, and adapt. Making code non-human readable forces future developers to face an unnecessary hurdle. Minified code may be used, however the unminified versions should be included whenever possible.
+This is an ‘above and beyond’ GPL requirement for being hosted here. The intent of WordPress is for anyone to be able to learn from code and edit it and adapt it. By making code non-human readable, future developers face an unnecessary hurdle. In addition, many people use such methods to try and hide evil code.
+
+Some systems, like Paypal donation buttons, use encrypted code as part of their normal operating mechanism. This is not considered to be “obfuscated” as this is simply how these types of systems operate and it is not a choice by the plugin author. These types of things are acceptable, but may result in the author being questioned about it for edge cases. If a non-encoded method for such services is available, use it.

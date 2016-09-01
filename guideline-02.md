@@ -1,3 +1,1 @@
-**2. Include a license in your plugin with a license.txt file.**
-
-Without a license.txt file, or referencing and/or declaring a license within code comments or a `readme.txt` file, the plugin and all its components are considered GPLv2 or later.
+**2. If you do not specify a compatible license, what you check in is considered GPLv2 or later.** By committing code to our repository, you accept this condition. In the absence of your own license.txt file, referencing or declaring a license somewhere in the code comments, or within you readme.txt file, the plugin and all it’s components are considered GPLv2 (or later).

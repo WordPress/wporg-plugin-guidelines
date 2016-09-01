@@ -1,9 +1,5 @@
-**11. The plugin should not hijack the admin dashboard.**
+**11. The plugin should not hijack the blog admin.** It is fine to include an Upgrade prompt on the plugin admin page, but not throughout the blog. It is acceptable to embed a widget on the dashboard but this should be the same size as others and be dismissable. It’s fine to put an error message at the top of the admin for special cases, but it should be linked to a way to fix the error and it should be infrequent. Any form of “nagging” is absolutely prohibited.
 
-Users prefer and expect plugins to feel like part of WordPress. Constant nags and overwhelming the admin dashboard with unnecessary alerts detract from this experience.
+In general, things like banner or text link advertising should not be anywhere in a plugin, including on its settings screen. Advertising on settings screens is generally ineffective anyway, as ideally users rarely visit these screens. Third party ad systems rarely permit their usage on admin-only screens (notably, Google Ads does not permit its usage there); if they do permit back-end ads, the quality will be low as those systems cannot see the page content to determine good ads.
 
-Upgrade prompts, notices, and alerts should be limited in scope and used sparingly or only on the plugin’s setting page. Any site wide notices or embedded dashboard widgets _must_ be dismissible. Error messages should include information on how to resolve the issue.
-
-Advertising within the WordPress Dashboard should be avoided. While developers are permitted to promote their own products and services, historically they have been ineffective; ideally users rarely visit these screens. Remember: tracking referrals via those ads is not permitted (see guideline 7) and most third-party systems do not permit back-end advertisements (notably, Google). Abusing the guidelines of an advertising system will result in such actions being reported.
-
-Developers are welcome and encouraged to include links to their own sites or social networks, as well as locally (within the plugin) including images to enhance that experience.
+Putting links back to your own site or to your social-network of choice is fine. So are locally (within the plugin) hosted images that link to your other products.

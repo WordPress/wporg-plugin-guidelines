@@ -1,3 +1,3 @@
-**3. A stable version of your plugin must be available from its WordPress Plugin Directory page.**
+**3. You have to actually use the Subversion repository we give you in order for your plugin to show up on this site.** The WordPress Plugins Directory is a hosting site, not a listing site.
 
-The only version of the plugin that WordPress.org distributes is the one in the directory. Though you may develop your code somewhere else, please remember that users will be downloading from the directory, not your development environment.
+This includes having your plugin serve updates from non WordPress.org servers and not having your plugin behave as a storefront. The point is to use our repository, not your own.
