@@ -17,7 +17,7 @@ The plugin review team has already gone through and made serious renovations in 
 3. [A stable version of your plugin must be available from its WordPress Plugin Directory page.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-03.md)
 4. [Keep your code (mostly) human readable.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-04.md)
 5. [Trialware is not allowed in the directory.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-05.md)
-6. [Serviceware is permitted in the directory.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-06.md)
+6. [Software as a Service *is* permitted in the directory.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-06.md)
 7. [The plugin may not “phone home” or track users without their informed, explicit, opt-in consent.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-07.md)
 8. [The plugin may not send executable code via third-party systems.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-08.md)
 9. [The plugin and its developers must not do anything illegal, dishonest, or morally offensive.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-09.md)
