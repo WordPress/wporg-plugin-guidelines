@@ -12,4 +12,5 @@ This includes (but is not restricted to) the following examples:
 * Falsifying personal information to intentionally disguise identities and avoid sanctions for previous infractions
 * Taking other developers’ plugins and presenting them as original work
 * Utilizing the user’s server or resources as part of a botnet
+* Intentionally attempting to exploit loopholes in the guidelines
 * Violations of the [WordCamp code of conduct](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/code-of-conduct/) 
