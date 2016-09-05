@@ -13,7 +13,7 @@ The plugin review team has already gone through and made serious renovations in 
 [Introduction](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/introduction.md)
 
 1. [Plugins must be compatible with the GNU General Public License v2, or any later version.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-01.md)
-2. [Include a license in your plugin with a license.txt file.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-02.md)
+2. [Plugin developers are responsible for the files they upload and services they utilize.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-02.md)
 3. [A stable version of your plugin must be available from its WordPress Plugin Directory page.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-03.md)
 4. [Keep your code (mostly) human readable.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-04.md)
 5. [Trialware is not allowed in the directory.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-05.md)
