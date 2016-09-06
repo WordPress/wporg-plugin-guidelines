@@ -1,4 +1,4 @@
-**15. All code changes to a plugin that has a Stable Tag of “trunk” must result in the version number being incrimented.**
+**15. All code changes to a plugin that has a Stable Tag of “trunk” must result in the version number being incremented.**
 
 If a developer is using tag folders for distribution of the latest version of their plugin, the trunk folder can be continually updated without version number changes. The tags folders should generally not be updated past the initial tagging, unless the readme is being updated with regards to supporting the newest version of WordPress.
 
