@@ -26,7 +26,7 @@ The plugin review team has already gone through and made serious renovations in 
 12. [Public facing pages on WordPress.org may not contain “sponsored” or “affiliate” links or third party advertisements.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-12.md)
 13. [The plugin page in the directory should include no more than 12 tags.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-13.md)
 14. [Frequent commits can be seen as gaming the Recently Updated lists.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-14.md)
-15. [All code changes to a plugin that has a Stable Tag of “trunk” must result in the version number being upgraded.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-15.md)
+15. [The plugin version number must increment every time a new version is released.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-15.md)
 16. [A complete plugin must be available at the time of submitting the plugin request to the directory.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-16.md)
 17. [Respect trademarks.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-17.md)
 18. [We reserve the right to alter the Plugin Guidelines at any time with or without notice.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-18.md)
