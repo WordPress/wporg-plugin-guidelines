@@ -1,5 +1,7 @@
-**15. The plugin version number must increment every time the code changes in the "trunk" Stable Tag.**
+**15. The plugin version number must increment every time a new version is released.**
 
-If a developer is using tag folders for distribution of the latest version of their plugin, the trunk folder can be continually updated without version number changes. The tag folders should generally not be updated past the initial tagging, unless the readme is being updated with regards to supporting the newest version of WordPress.
+Users will only be alerted to updates when the code version is incremented in SVN. Developers can deploy these updates either by incrementing the plugin version number in the readme.txt in the trunk branch or by creating a new tag branch with a readme.txt which has an incremented plugin version matching the branch directory name.
+
+If a developer employs the tag directories approach to distribute the latest version of their plugin, the trunk folder can be continually updated without version number changes. The tag directories should generally not be updated past the initial tagging unless the readme.txt needs to be updated to support the release of a new version of WordPress.
 
 For more information on tagging, please read our [SVN directions on tagging](https://developer.wordpress.org/plugins/wordpress-org/how-to-use-subversion/#task-3) and [how the readme.txt works](https://developer.wordpress.org/plugins/wordpress-org/how-your-readme-txt-works/). Remember: If you do not increment the versions of your plugin, no one will get your updates.
