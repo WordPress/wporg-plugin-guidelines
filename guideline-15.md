@@ -4,4 +4,4 @@ Users will only be alerted to updates when the code version is incremented in SV
 
 If a developer employs the tag directories approach to distribute the latest version of their plugin, the trunk folder can be continually updated without version number changes. The tag directories should generally not be updated past the initial tagging unless the readme.txt needs to be updated to support the release of a new version of WordPress.
 
-For more information on tagging, please read our [SVN directions on tagging](https://developer.wordpress.org/plugins/wordpress-org/how-to-use-subversion/#task-3) and [how the readme.txt works](https://developer.wordpress.org/plugins/wordpress-org/how-your-readme-txt-works/). Remember: If you do not increment the versions of your plugin, no one will get your updates.
+For more information on tagging, please read our [SVN directions on tagging](https://developer.wordpress.org/plugins/wordpress-org/how-to-use-subversion/#task-3) and [how the readme.txt works](https://developer.wordpress.org/plugins/wordpress-org/how-your-readme-txt-works/).
