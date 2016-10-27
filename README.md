@@ -1,12 +1,20 @@
 # WordPress Plugin Directory Guidelines
 
-This is the online repository for the proposed revamp of the WordPress.org Plugin Guidelines.
+This is the online repository for the rewrite of the WordPress.org Plugin Guidelines.
+
+As of October 20, 2016, these guidelines match the ones on WordPress.org.
 
 ## Introduction
 
-These guidelines are intended to replace the ones currently found in the [Plugin Developer Handbook](https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/).
+In 2016, an attempt was begun to clean up the [Detailed Plugin Guidelines](https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/) and make them easier to understand, while retaining the heart of their intent. While one might wish we could say "Don't be a gosh darn bad person or spammer!" the reality is that some people need things spelled out. But also a great many situations are difficult to summarize.
 
-The plugin review team has already gone through and made serious renovations in order to clarify intent and meaning. Many kudos to the focus groups for reading and reviewing these, to help clarify them further.
+The Plugin Review Team made the first pass, followed by many volunteers at WordCamps around the world, and finally a public posting here for anyone in the community. The guidelines went live on October 20, 2016, and this repository remains open for the time being to allow any late changes to be tracked.
+
+## Feedback
+
+If you feel a guideline’s explanation is unclear, please create an issue or a pull request with what you feel should be changed and why. All grammar/spelling corrections are greatly welcome. We’re trying to write these for all levels of developers, as well as people who may not speak English proficiently. Using words like ‘obsequious’ should be avoided (nb: That’s mostly to Mika who uses those words regularly).
+
+All feedback should be opened as [issues](https://github.com/Ipstenu/wporg-plugin-guidelines) in the tracker.
 
 ## Table of Contents
 
@@ -30,12 +38,6 @@ The plugin review team has already gone through and made serious renovations in 
 16. [A complete plugin must be available at the time of submitting the plugin request to the directory.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-16.md)
 17. [Respect trademarks.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-17.md)
 18. [We reserve the right to alter the Plugin Guidelines at any time with or without notice.](https://github.com/Ipstenu/wporg-plugin-guidelines/blob/master/guideline-18.md)
-
-## Feedback
-
-If you feel a guideline’s explanation is unclear, please create an issue or a pull request with what you feel should be changed and why. All grammar/spelling corrections are greatly welcome. We’re trying to write these for all levels of developers, as well as people who may not speak English proficiently. Using words like ‘obsequious’ should be avoided (nb: That’s mostly to Mika who uses those words regularly).
-
-All feedback should be opened as [issues](https://github.com/Ipstenu/wporg-plugin-guidelines) in the tracker.
 
 ## License
 
