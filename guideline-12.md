@@ -1,3 +1,9 @@
-**12. Public facing pages on WordPress.org may not contain “sponsored” or “affiliate” links or third party advertisements.**
+**12. Public facing pages on WordPress.org (readmes) may not spam.**
 
-Public facing pages, including readmes and translation files, may not contain affiliate or sponsored links. Directly required products (such as themes or other plugins required for the plugin's use), are permitted within moderation. Related links may be included on the WordPress Admin settings pages for the specific plugin. In all cases, affiliate links must be disclosed and must directly link to the affiliate service, not a redirect or cloaked URL.
+Public facing pages, including readmes and translation files, may not be used to spam. Spammy behavior includes (but is not limited to) unnecessary affiliate links, tags to competitors plugins, blackhat SEO, and keyword stuffing.
+
+Links to directly required products, such as themes or other plugins required for the plugin's use, are permitted within moderation. Similarly, related products may be used in tags but not competitors. If a plugin is a WooCommerce extension, it may use the tag 'woocommerce.' However if the plugin is an alternative to Akismet, it may not use that term as a tag. Repetitive use of a tag or specific term is considered to be keyword stuffing, and is not permitted.
+
+Write your readmes for people, not bots.
+
+In all cases, affiliate links must be disclosed and must directly link to the affiliate service, not a redirect or cloaked URL.
