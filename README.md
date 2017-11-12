@@ -2,7 +2,7 @@
 
 This is the online repository for the rewrite of the WordPress.org Plugin Guidelines.
 
-As of October 20, 2016, these guidelines match the ones on WordPress.org.
+As of October 17, 2017, these guidelines match the ones on WordPress.org.
 
 ## Introduction
 

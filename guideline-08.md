@@ -1,4 +1,4 @@
-**8. The plugin may not send executable code via third-party systems.**
+**8. Plugins may not send executable code via third-party systems.**
 
 Externally loading code from documented services is permitted, however all communication must be made as securely as possible. Executing outside code within a plugin when not acting as a service is not allowed, for example:
 

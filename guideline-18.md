@@ -1,5 +1,11 @@
-**18. We reserve the right to alter the Plugin Guidelines at any time with or without notice.**
+**18. We reserve the right to maintain the Plugin Directory to the best of our ability.**
 
-We reserve the right to update these guidelines at any time as we feel necessary.
+Our intent is to enforce the guidelines with as much fairness as humanly possible to ensure plugins’ quality and the safety of their users. To that end, we reserve the following rights:
 
-We reserve the right to arbitrarily disable or remove any plugin from the directory for any reason whatsoever, even for reasons not explicitly covered by these guidelines.  Our intent is to enforce these guidelines with as much fairness as humanly possible to ensure plugins’ quality and the safety of their users.
+* ... to update these guidelines at any time.
+* ... to disable or remove any plugin from the directory, even for reasons not explicitly covered by the guidelines.
+* ... to grant exceptions and allow developers time to address issues, even security related.
+* ... to remove developer access to a plugin in lieu of a new, active, developer.
+* ... to make changes to a plugin, without developer consent, in the interest of public safety.
+
+In return, we promise to use those rights sparingly and with as much respect as possible for both end users and developers.
