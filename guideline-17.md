@@ -1,4 +1,4 @@
-**17. Plugins must respect trademarks, copyrights, and project names.**
+<h4>17. Plugins must respect trademarks, copyrights, and project names.</h4>
 
 The use of trademarks or other projects as the sole or initial term of a plugin slug is prohibited unless proof of legal ownership/representation can be confirmed. For example, the [WordPress Foundation has trademarked the term “WordPress”](http://wordpressfoundation.org/trademark-policy/) and it is a violation to use “wordpress” in a domain name. This policy extends to plugin slugs. 
 

@@ -1,4 +1,4 @@
-**12. Public facing pages on WordPress.org (readmes) must not spam.**
+<h4>12. Public facing pages on WordPress.org (readmes) must not spam.</h4>
 
 Public facing pages, including readmes and translation files, may not be used to spam. Spammy behavior includes (but is not limited to) unnecessary affiliate links, tags to competitors plugins, use of over 12 tags total, blackhat SEO, and keyword stuffing.
 

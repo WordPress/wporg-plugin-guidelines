@@ -1,4 +1,4 @@
-**5. Trialware is _not_ allowed in the directory.**
+<h4>5. Trialware is _not_ allowed in the directory.</h4>
 
 Plugins may not contain functionality that is crippled or locked, only to be unlockable by payment or upgrade. Paid functionality must be part of an externally hosted service or a separate plugin, that is not hosted on wordpress.org.
 

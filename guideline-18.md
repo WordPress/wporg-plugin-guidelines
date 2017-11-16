@@ -1,4 +1,4 @@
-**18. We reserve the right to maintain the Plugin Directory to the best of our ability.**
+<h4>18. We reserve the right to maintain the Plugin Directory to the best of our ability.</h4>
 
 Our intent is to enforce the guidelines with as much fairness as humanly possible to ensure plugins’ quality and the safety of their users. To that end, we reserve the following rights:
 

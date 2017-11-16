@@ -1,4 +1,4 @@
-**9. Developers and their plugins must not do anything illegal, dishonest, or morally offensive.**
+<h4>9. Developers and their plugins must not do anything illegal, dishonest, or morally offensive.</h4>
 
 While this is subjective and rather broad, the intent is to prevent plugins, developers, and companies from abusing the freedoms and rights of end users as well as other plugin developers.
 

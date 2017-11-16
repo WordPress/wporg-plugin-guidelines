@@ -1,4 +1,4 @@
-**15. The plugin version number must be incremented every time a new version is released.**
+<h4>15. The plugin version number must be incremented every time a new version is released.</h4>
 
 Users will only be alerted to updates when the code version is incremented in SVN. Developers can deploy these updates either by incrementing the plugin version number in the readme.txt in the trunk branch or by creating a new tag branch with a readme.txt which has an incremented plugin version matching the branch directory name.
 

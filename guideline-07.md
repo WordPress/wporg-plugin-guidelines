@@ -1,4 +1,4 @@
-**7. The plugin may not “phone home” or track users without their informed, explicit, opt-in consent.**
+<h4>7. The plugin may not “phone home” or track users without their informed, explicit, opt-in consent.</h4>
 
 In the interest of protecting user privacy, plugins may not contact external servers without the explicit consent of the user via requiring registration with a service or a checkbox within the settings. This method is called ‘opt in.’ Documentation on how any user data is collected, and used, should be included in the plugin’s readme, preferably with a clearly stated privacy policy.
 
