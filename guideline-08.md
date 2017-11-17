@@ -7,3 +7,5 @@ Externally loading code from documented services is permitted, however all commu
 * Calling third party CDNs for reasons other than font inclusions; all non-service related JavaScript and CSS must be included locally
 * Using third party services to manage regularly updated lists of data, when not explicitly permitted in the service’s terms of use
 * Using iframes to connect admin pages; APIs should be used to minimize security risks
+
+Management services that interact with and push software down to a site _are_ permitted, provided the service handles the interaction on it's own domain and not within the WordPress dashboard.

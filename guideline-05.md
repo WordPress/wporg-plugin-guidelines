@@ -1,8 +1,5 @@
 <h4>5. Trialware is _not_ allowed in the directory.</h4>
 
-Plugins may not contain functionality that is crippled or locked, only to be unlockable by payment or upgrade. Paid functionality must be part of an externally hosted service or a separate plugin, that is not hosted on wordpress.org.
+Plugins may not contain functionality that is restricted or locked, only to be made available by payment or upgrade. They may not disable included functionality after a trial period or quota. Paid functionality in services _is_ permitted (see guideline 6: serviceware), provided all the code inside a plugin is fully available. 
 
-Attempting to upsell the user on other products and features is acceptable within limits.
-
-* Upsell notifications should not be overly prominent or annoying.
-* Plugins may not disable included functionality after a trial period or quota.
+We recommend the use of add-on plugins, hosted outside of WordPress.org, in order to exclude the premium code. Attempting to upsell the user on other products and features is acceptable within limits of guideline 11 (don't hijack the admin); they should not be overly prominent or annoying to users.
