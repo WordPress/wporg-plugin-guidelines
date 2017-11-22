@@ -1,4 +1,4 @@
-<h4>11. The plugin should not hijack the admin dashboard.</h4>
+<h4>11. Plugins should not hijack the admin dashboard.</h4>
 
 Users prefer and expect plugins to feel like part of WordPress. Constant nags and overwhelming the admin dashboard with unnecessary alerts detract from this experience.
 
