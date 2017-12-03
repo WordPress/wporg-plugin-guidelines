@@ -14,7 +14,7 @@ In order to submit a plugin, [there are three steps](https://developer.wordpress
 2. Whitelist `plugins@wordpress.org` in your email client to ensure you receive email communications.
 3. Submit your plugin with a brief overview of what it does and a complete, ready to go, zip of the plugin.
 
-Once a plugin is queued for review, we will review the code for any issues.  Most of the issues can be avoided by following the guidelines below. If we do find issues, we will contact the developer(s), and work towards a resolution.
+Once a plugin is queued for review, we will review the code for any issues. Most of the issues can be avoided by following the guidelines below. If we do find issues, we will contact the developer(s), and work towards a resolution.
 
 <h2>Developer Expectations</h2>
 
