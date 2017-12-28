@@ -1,4 +1,4 @@
-**6. Software as a Service _is_ permitted in the directory.**
+<h4>6. Software as a Service is permitted.</h4>
 
 Plugins that act as an interface to some external third party service (e.g. a video hosting site) are allowed, even for paid services. The service itself must provide functionality of substance and be clearly documented in the readme file submitted with the plugin, preferably with a link to the service’s Terms of Use.
 
