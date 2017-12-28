@@ -10,7 +10,7 @@ In 2016, an attempt was begun to clean up the [Detailed Plugin Guidelines](https
 
 The Plugin Review Team made the first pass, followed by many volunteers at WordCamps around the world, and finally a public posting here for anyone in the community. The guidelines went live on October 20, 2016.
 
-This repository remains open for the time being to allow any late changes to be tracked.
+This repository remains open to allow any future changes to be tracked.
 
 ## Feedback
 
