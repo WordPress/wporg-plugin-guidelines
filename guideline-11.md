@@ -2,7 +2,7 @@
 
 Users prefer and expect plugins to feel like part of WordPress. Constant nags and overwhelming the admin dashboard with unnecessary alerts detract from this experience.
 
-Upgrade prompts, notices, and alerts must be limited in scope and used sparingly, or only on the plugin’s setting page. Any site wide notices or embedded dashboard widgets _must_ be dismissible or self-dismiss when resolved. Error messages and alerts must include information on how to resolve the situation, and remove themselves when completed.
+Upgrade prompts, notices, and alerts must be limited in scope and used sparingly, or only on the plugin’s setting page. Any site wide notices or embedded dashboard widgets <em>must</em> be dismissible or self-dismiss when resolved. Error messages and alerts must include information on how to resolve the situation, and remove themselves when completed.
 
 Advertising within the WordPress dashboard should be avoided, as they are generally ineffective. Users rarely visit settings screens, and when they do, they're trying to solve a problem. Making it harder to use a plugin does not generally encourage a good review, and we recommend limiting any ads placed therein. Remember: tracking referrals via those ads is not permitted (see guideline 7) and most third-party systems do not permit back-end advertisements. Abusing the guidelines of an advertising system will result in developers being reported upstream.
 

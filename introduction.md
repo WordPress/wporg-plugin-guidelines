@@ -4,17 +4,7 @@ The goal of the WordPress Plugin Directory is to provide a safe place for all Wo
 
 To that end, we want to ensure a simple and transparent process for developers to submit plugins for the directory. As part of our ongoing efforts to make the plugin directory inclusion process more transparent, we have created a list of developer guidelines. We strive to create a level playing field for all developers.
 
-If you have suggestions to improve the documentation, or questions about it, please email us at `plugins@wordpress.org` and let us know.
-
-<h2>Plugin Submissions</h2>
-
-In order to submit a plugin, [there are three steps](https://developer.wordpress.org/plugins/wordpress-org/#getting-plugins-hosted):
-
-1. Register on WordPress.org with a valid, regularly checked email address. If you are submitting a plugin on behalf of a company, use an official company email for verification.
-2. Whitelist `plugins@wordpress.org` in your email client to ensure you receive email communications.
-3. Submit your plugin with a brief overview of what it does and a complete, ready to go, zip of the plugin.
-
-Once a plugin is queued for review, we will review the code for any issues. Most of the issues can be avoided by following the guidelines below. If we do find issues, we will contact the developer(s), and work towards a resolution.
+If you have suggestions to improve the guidelines, or questions about them, please email us at `plugins@wordpress.org` and let us know.
 
 <h2>Developer Expectations</h2>
 
