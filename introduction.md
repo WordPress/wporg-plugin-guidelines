@@ -4,7 +4,7 @@ The goal of the WordPress Plugin Directory is to provide a safe place for all Wo
 
 To that end, we want to ensure a simple and transparent process for developers to submit plugins for the directory. As part of our ongoing efforts to make the plugin directory inclusion process more transparent, we have created a list of developer guidelines. We strive to create a level playing field for all developers.
 
-If you have suggestions to improve the guidelines, or questions about them, please email `plugins@wordpress.org` and let us know.
+If you have suggestions to improve the guidelines, or questions about them, please email <code>plugins@wordpress.org</code> and let us know.
 
 <h2>Developer Expectations</h2>
 
@@ -16,4 +16,4 @@ It is the responsibility of the plugin developer to ensure their contact informa
 
 All code in the directory should be made as secure as possible. Security is the ultimate responsibility of the plugin developer, and the Plugin Directory enforces this to the best of our ability. Should a plugin be found to have security issues, it will be closed until the situation is resolved. In extreme cases the plugin may be updated by the WordPress Security team and propagated for the safety of the general public.
 
-While we attempt to account for as many relevant interpretations of the guidelines as possible, it is unreasonable to expect that every circumstance will be explicitly covered. If you are uncertain whether a plugin might violate the guidelines, please contact `plugins@wordpress.org` and ask.
+While we attempt to account for as many relevant interpretations of the guidelines as possible, it is unreasonable to expect that every circumstance will be explicitly covered. If you are uncertain whether a plugin might violate the guidelines, please contact <code>plugins@wordpress.org</code> and ask.
