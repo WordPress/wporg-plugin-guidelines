@@ -10,6 +10,7 @@ This includes (but is not restricted to) the following examples:
 	<li>Implying users must pay to unlock included features</li>
 	<li>Creating accounts to generate fake reviews or support tickets (i.e. sockpuppeting)</li>
 	<li>Taking other developers’ plugins and presenting them as original work</li>
+	<li>Implying that a plugin can create, provide, or guarantee legal compliance</li>
 	<li>Utilizing the user’s server or resources without permission, such as part of a botnet or crypto-mining</li>
 	<li>Violations of the <a href="https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/code-of-conduct/">WordCamp code of conduct<a></li>
 	<li>Violations of the <a href="https://wordpress.org/support/guidelines/">Forum Guidelines</a></li>
