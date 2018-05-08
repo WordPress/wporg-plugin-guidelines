@@ -1,5 +1,7 @@
 <h4>5. Trialware is not permitted.</h4>
 
-Plugins may not contain functionality that is restricted or locked, only to be made available by payment or upgrade. They may not disable included functionality after a trial period or quota. Paid functionality in services <em>is</em> permitted (see guideline 6: serviceware), provided all the code inside a plugin is fully available. 
+Plugins may not contain functionality that is restricted or locked, only to be made available by payment or upgrade. Functionality may not be disabled after a trial period or quota is met. In addition, plugins that provide sandbox only access to APIs and services are also trial, or test, plugins and not permitted.
 
-We recommend the use of add-on plugins, hosted outside of WordPress.org, in order to exclude the premium code. Attempting to upsell the user on other products and features is acceptable within limits of guideline 11 (don't hijack the admin); they should not be overly prominent or annoying to users.
+Paid functionality in services is permitted (see guideline 6: serviceware), provided all the code inside a plugin is fully available. We recommend the use of add-on plugins, hosted outside of WordPress.org, in order to exclude the premium code. Situations where a plugin is intended as a developer tool only will be reviewed on a case by case basis.
+
+Attempting to upsell the user on ad-hoc products and features <em>is</em> acceptable, provided it falls within bounds of guideline 11 (hijacking the admin experience).
