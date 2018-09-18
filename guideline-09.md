@@ -7,6 +7,7 @@ This includes (but is not restricted to) the following examples:
 	<li>Artificially manipulating search results via keyword stuffing, black hat SEO, or otherwise</li>
 	<li>Offering to drive more traffic to sites that use the plugin</li>
 	<li>Compensating, misleading, pressuring, extorting, or blackmailing others for reviews or support</li>
+	<li>Compensating other developers to include advertisements for your unrelated products</li>
 	<li>Implying users must pay to unlock included features</li>
 	<li>Creating accounts to generate fake reviews or support tickets (i.e. sockpuppeting)</li>
 	<li>Taking other developers’ plugins and presenting them as original work</li>
