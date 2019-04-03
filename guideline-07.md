@@ -1,6 +1,6 @@
 <h4>7. Plugins may not track users without their consent.</h4>
 
-In the interest of protecting user privacy, plugins may not contact external servers without <em>explicit</em> and authorized consent. This is commonly done via an 'opt in' method, requiring registration with a service or a checkbox within the plugin settings. Documentation on how any user data is collected, and used, should be included in the plugin’s readme, preferably with a clearly stated privacy policy.
+In the interest of protecting user privacy, plugins may not contact external servers without <em>explicit</em> and authorized consent. This is commonly done via an 'opt in' method, requiring registration with a service, or a checkbox within the plugin settings. Documentation on how any user data is collected, and used, must be included in the plugin’s readme, with a link to a clearly stated privacy policy and/or terms of us.
 
 Some examples of prohibited tracking include:
 
