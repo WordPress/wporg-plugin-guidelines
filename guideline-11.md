@@ -1,9 +1,18 @@
-<h4>11. Plugins should not hijack the admin dashboard.</h4>
+<h4>11. Plugins cannot hijack the admin dashboard.</h4>
 
-Users prefer and expect plugins to feel like part of WordPress. Constant nags and overwhelming the admin dashboard with unnecessary alerts detract from this experience.
+It is permitted for plugins to display appropriate messages as to their functionality on the WordPress admin dashboard. All such notices must be <strong>permanently</strong> dismissible or self-dismiss when resolved. Error messages and alerts must include information on how to resolve the situation, and remove themselves when completed.
 
-Upgrade prompts, notices, alerts, and the like must be limited in scope and used sparingly, be that contextually or only on the plugin’s setting page. Site wide notices or embedded dashboard widgets <em>must</em> be dismissible or self-dismiss when resolved. Error messages and alerts must include information on how to resolve the situation, and remove themselves when completed.
+It is also permitted to advertise on a plugins' own setting page, or to display <em>directly</em> related services and products on other pages.
 
-Advertising within the WordPress dashboard is permitted within reason. Advertisements must be for products and services that are <em>directly</em> related to the plugin or the developers. The use of 3rd party services for advertising is not allowed.
+Bear in mind, constant nags for upsells and overwhelming the admin dashboard with unnecessary messages makes it harder for people to use WordPress. Abuse of the system will result in poor reviews from users, and those reviews will not be removed.
 
-Developers are welcome and encouraged to include links to their own sites, products, or social networks, as well as including images within the plugin to enhance the user's experience.
+Examples of violations include (but are not limited to):
+
+<ul>
+    <li>Messages that cannot be dismissed, nor resolved</li>
+    <li>Messages that repeat regularly, be that daily or monthly, and cannot be permanently dismissed</li>
+    <li>Multiple messages on any one page, other than a plugin's own setting page</li>
+    <li>Non-disclosed affiliate links to other services (such as hosting, Amazon, etc)</li>
+</ul>
+
+In all cases, the use of 3rd party services for advertising is not allowed, and all messages must comply with the other guidelines (i.e. no tracking users, etc).
