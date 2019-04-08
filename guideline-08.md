@@ -10,4 +10,4 @@ Externally loading code from documented services is permitted, however all commu
 	<li>Using iframes to connect admin pages (APIs should be used to minimize security risks)</li>
 </ul>
 
-Management services that interact with and push software down to a site <em>are</em> permitted, provided the service handles the interaction on it's own domain and not within the WordPress dashboard.
+Services that act as site management tools that interact with and push software down to a site <em>are</em> permitted. The management service must handle the interaction on its own domain, however, not within the WordPress dashboard.

@@ -3,15 +3,16 @@
 While this is subjective and rather broad, the intent is to prevent plugins, developers, and companies from abusing the freedoms and rights of end users as well as other plugin developers.
 
 This includes (but is not restricted to) the following examples:
+
 <ul>
-	<li>Artificially manipulating search results via keyword stuffing, black hat SEO, or otherwise</li>
-	<li>Offering to drive more traffic to sites that use the plugin</li>
+	<li>Artificially manipulating search results (e.g. via keyword stuffing, black hat SEO, hidden links)</li>
+	<li>Offering to drive traffic to sites that use the plugin</li>
 	<li>Compensating, misleading, pressuring, extorting, or blackmailing others for reviews or support</li>
 	<li>Compensating other developers to include advertisements for your unrelated products</li>
 	<li>Implying users must pay to unlock included features</li>
-	<li>Creating accounts to generate fake reviews or support tickets (i.e. sockpuppeting)</li>
+	<li>Creating accounts to generate fake reviews or support tickets (e.g. sockpuppeting)</li>
 	<li>Taking other developers’ plugins and presenting them as original work</li>
-	<li>Implying that a plugin can create, provide, or guarantee legal compliance</li>
+	<li>Implying or claiming that a plugin can create, provide, or guarantee full legal compliance</li>
 	<li>Utilizing the user’s server or resources without permission, such as part of a botnet or crypto-mining</li>
 	<li>Violations of the <a href="https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/code-of-conduct/">WordCamp code of conduct<a></li>
 	<li>Violations of the <a href="https://wordpress.org/support/guidelines/">Forum Guidelines</a></li>
