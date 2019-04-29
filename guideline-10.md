@@ -4,4 +4,4 @@ All "Powered By" or credit displays and links included in the plugin code must b
 
 Plugins may not require credit or links be displayed in order to function, nor may they require specific actions such as leaving a review in order to have them removed.
 
-Services <em>are</em> permitted to brand their output as they see fit, provided the code is output from the service itself (ex. YouTube, Twitter).
+Services <em>are</em> permitted to brand their output as they see fit, provided the code is output from the service itself via methods such as oEmbed.
