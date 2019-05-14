@@ -7,5 +7,5 @@ Services and functionalities that are <em>not</em> allowed include:
 <ul>
 	<li>A service that exists for the sole purpose of validating licenses or keys while all functional aspects of the plugin are included locally is not permitted.</li>
 	<li>Creation of a service by moving arbitrary code out of the plugin so that the service may falsely appear to provide supplemented functionality is prohibited.</li>
-	<li>Storefronts. A plugin that acts only as a front-end for products to be purchased and installed from external systems will not be accepted.</li>
+	<li>Storefronts. A plugin that acts only as a front-end for products to be purchased and/or installed from external systems will not be accepted.</li>
 </ul>
