@@ -10,7 +10,7 @@ If you have suggestions to improve the guidelines, or questions about them, plea
 
 Developers, all users with commit access, and all users who officially support a plugin must abide by the Directory Guidelines.
 
-Violations of these guidelines can result in plugins or plugin data (for previously approved plugins) being removed from the directory until the issues are resolved. Plugin data, such as user reviews and code, may not be restored depending on the nature of the violation and the results of a peer-review of the situation. Repeat violations may result in all the author’s plugins being removed and the developer being banned from hosting plugins on WordPress.org.
+Violations of these guidelines can result in plugins or plugin data (for previously approved plugins) being removed from the directory until the issues are resolved. Plugin data (such as user reviews and code) may not be restored depending on the nature of the violation and the results of a peer-review of the situation. Repeat violations may result in all the author’s plugins being removed and the developer being banned from hosting plugins on WordPress.org.
 
 It is the responsibility of the plugin developer to ensure their contact information on WordPress.org is up to date and accurate, in order that they receive all notifications from the plugins team. Auto-replies and emails that route to a support system are not permitted as they historically prevent humans from addressing emails in a timely fashion.
 
