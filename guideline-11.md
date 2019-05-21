@@ -1,6 +1,6 @@
 <h4>11. Plugins must not hijack the admin dashboard.</h4>
 
-Preventing users from completing desired tasks via constant alerts, messages, and advertisements is prohibited behavior. When plugins get between users and their work it creates a poor experience. Overwhelming the admin dashboard to the point of where it is no longer usable is detrimental to WordPress as a whole.
+Preventing users from completing desired tasks via constant alerts, messages, and advertisements is not allowed. When plugins get between users and their work it creates a poor experience. Overwhelming the admin dashboard to the point of where it is no longer usable is detrimental to WordPress as a whole.
 
 At the same time, in order to support the plugin ecosystem it is permitted for plugins to display messages as to their functionality, as well as to promote included features. These messages must be done with consideration and care towards usability. All messages must display only for the appropriate users (i.e. people who can action on them).
 
@@ -18,4 +18,4 @@ Examples of violations include (but are not limited to):
     <li>Hidden affiliate links to other services (such as hosting, Amazon, etc)</li>
 </ul>
 
-Abuse of the notifications system often result in poor reviews from users. Those reviews will not be removed.
+Abuse of the notifications system may result in poor reviews from users. Those reviews will not be removed.
