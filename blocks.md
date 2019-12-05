@@ -25,7 +25,7 @@ These guidelines apply specifically to the first type of plugin, which we’ll c
 The Block Directory contains only Block Plugins, that is to say plugins that contain only a single independent block and a minimum of supporting code. Block plugins have the following characteristics:
 
 1. A specific type of WordPress plugin, with the same structure including a readme.txt file.
-1. Containly only blocks (typically one).
+1. Containing only blocks (typically one).
 1. Contain a minimum of server-side code. 
 1. Do not have any UI outside of the post editor.
 
@@ -73,7 +73,7 @@ They should not rely on an external API or cloud service for functions that coul
 
 Since Block Plugins are WordPress plugins, they necessarily contain PHP code for metadata and initialisation. As much as possible, they should avoid including additional PHP code or server-side libraries. The WordPress REST API should be the preferred interface to WordPress, rather than custom server-side code.
 
-We recognise that there are limits to the REST API, and situations where server-side PHP is the only performant way to implement a feature. In those situations, PHP code may be included. Please ensure that such code is clearly written, used as little as possible , and well documented.
+We recognise that there are limits to the REST API, and situations where server-side PHP is the only performant way to implement a feature. In those situations, PHP code may be included. Please ensure that such code is clearly written, used as little as possible, and well documented.
 
 <h4>8. Must not promote other blocks, plugins, or themes.</h4>
 
