@@ -10,7 +10,8 @@ The goal of the Block Directory is to provide a safe place for WordPress users t
 
 <h3>Developer Expectations</h3>
 
-* Developers will have a concrete set of requirements and guidelines to follow when writing blocks for the Block Directory
+* Developers will have a concrete set of requirements and guidelines to follow when writing blocks for the Block Directory.
+* Following these guidelines will help ensure that the blocks they develop can be seamlessly installed in the editor.
 
 <h3>Definitions</h3>
 
@@ -87,11 +88,15 @@ Block Plugins must include a valid `block.json` file. In addition to the require
 
 This includes payment for premium features. You may use the donation link feature.
 
-<h4>6. Block Plugins should work independently.</h4>
+Block plugins that do require a paid service or include upselling and premium features are still permitted in the main WordPress Plugin Directory, subject to its guidelines.
+
+<h4>6. Block Plugins should work seamlessly.</h4>
+
+Block Plugins are intended to work seamlessly and instantly when installed from the editor. That means they should not encumber the user with additional steps or prerequisites such as installing another plugin or theme, signing up for an account, or logging in or manually connecting to an external service.
 
 Block Plugins must not require another plugin in order to function.
 
-They may use an external/cloud API where necessary, but not if that API requires a paid account for access.
+They may use an external/cloud API where necessary, provided it can be done seamlessly without requiring a login or activation key.
 
 They should not rely on an external API or cloud service for functions that could be performed locally.
 
@@ -103,4 +108,4 @@ We recognise that there are limits to the REST API, and situations where server-
 
 <h4>8. Must not include advertisements or promote other blocks, plugins, or themes.</h4>
 
-Block Plugins must not include code that displays alerts, dashboard notifications, or similar promotional messages.
+Block Plugins must not include code that displays alerts, dashboard notifications, or similar messages promoting other plugins, themes, goods, or services. They may include an unobtrusive link identifying the developer or plugin page.
