@@ -41,9 +41,9 @@ While plugins that provide styles for or extend existing core blocks are permitt
 
 <h4>2. Block Plugins are separate blocks.</h4>
 
-Block plugins are intended to be single purpose, separate, independent blocks, not bundles or compendiums of many blocks. In most cases, a Block Plugin should contain only one (single) block. It should not contain multiple blocks that could reasonably be split up into separate, independent plugins.
+Block plugins are intended to be single purpose, separate, independent blocks, not bundles or compendiums of many blocks. In most cases, a Block Plugin should contain only one single block. It should not contain multiple blocks that could reasonably be split up into separate, independent plugins.
 
-Block plugins may contain more than one block where a clearly necessary parent/child dependency exists; for example a list block that contains list item blocks.
+Block plugins may contain more than one block where a clearly necessary parent/child or container/content dependency exists; for example a list block that contains list item blocks.
 
 <h4>3. Plugin titles should reflect the block title.</h4>
 
