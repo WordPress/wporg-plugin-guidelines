@@ -45,9 +45,33 @@ Block plugins are intended to be single purpose, separate, independent blocks, n
 
 Block plugins may contain more than one block where a clearly necessary parent/child or container/content dependency exists; for example a list block that contains list item blocks.
 
-<h4>3. Plugin titles should reflect the block title.</h4>
+<h4>3. Plugin and block names should reflect the block's purpose.</h4>
 
-We want users to interact with blocks, not product names. Block Plugins should be named to reflect the block; for example "Image Grid" block, "Improved Slider", "Business Hours" block. Please avoid plugin names unrelated to the block itself like "Widgets Incorporated Block", and refrain from block names that include trademarks or names that you do not legally represent; for example you cannot name a block "Facerange Block" unless you work for Facerange and have their permission.
+Plugin titles and block titles should describe what the block does in a way that helps users easily understand its purpose. In most cases the plugin title and the block title should be identical or very similar. Some examples of good plugin and block names include:
+
+`Rainbow Block`
+`Sepia Image Grid`
+`Business Hours Block`
+
+Please avoid plugin and block titles unrelated to the block itself, or that cannot be easily distinguished from core blocks. Some examples of unhelpful plugin and block names are things such as:
+
+`PluginCo Inc Block`
+`Widget`
+`Image Block`
+
+You must refrain from names and titles that include trademarks or names that you do not legally represent; for example you cannot name a block "Facerange Block" unless you work for Facerange and have their permission.
+
+<h4>3a. Block names should be unique and properly namespaced.</h4>
+
+The block name (meaning the [`name` parameter to `registerBlockType()`](https://developer.wordpress.org/block-editor/developers/block-api/block-registration/#block-name) and [`name` in `block.json`](https://github.com/WordPress/gutenberg/blob/master/docs/rfc/block-registration.md#name)) must be unique to your block. As with titles, please avoid names containing trademarks or names you do not legally represent.
+
+The namespace prefix to the block name should reflect either the plugin author, or the plugin slug. For example:
+
+`name: "my-rainbow-block-plugin/rainbow"`, or
+`name: "john-doe/rainbow"`, or
+`name: "pluginco/rainbow"`.
+
+The namespace must not be a reserved one such as `core`.
 
 <h4>4. Block Plugins must include a <code>block.json</code> file.</h4>
 
