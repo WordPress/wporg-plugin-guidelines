@@ -37,6 +37,8 @@ In addition to following the guidelines that apply to all WordPress plugins, Blo
 
 Your block plugins should contain a block, and a minimum of other supporting code. It should not contain any UX outside of the editor, such as WordPress options or `wp-admin` menus. Server-side code should be kept to a minimum.
 
+While plugins that provide styles for or extend existing core blocks are permitted, please be aware that they are not yet supported by the Block Editor's seamless install, which means they cannot be included in the Block Directory just yet.
+
 <h4>2. Block Plugins are separate blocks.</h4>
 
 Block plugins are intended to be single purpose, separate, independent blocks, not bundles or compendiums of many blocks. In most cases, a Block Plugin should contain only one (single) block. It should not contain multiple blocks that could reasonably be split up into separate, independent plugins.
