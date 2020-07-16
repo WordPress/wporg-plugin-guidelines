@@ -77,6 +77,6 @@ Since Block Plugins are WordPress plugins, they necessarily contain PHP code for
 
 We recognise that there are limits to the REST API, and situations where server-side PHP is the only performant way to implement a feature. In those situations, PHP code may be included. Please ensure that such code is clearly written, used as little as possible, and well documented.
 
-<h4>8. Must not promote other blocks, plugins, or themes.</h4>
+<h4>8. Must not include advertisements or promote other blocks, plugins, or themes.</h4>
 
-Block Plugins are blocks. They must not include advertisements, prompts, or promotional messages.
+Block Plugins must not include code that displays alerts, dashboard notifications, or similar promotional messages.
