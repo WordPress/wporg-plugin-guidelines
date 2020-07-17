@@ -30,7 +30,7 @@ The Block Directory contains only Block Plugins, that is to say plugins that con
 1. Contain a minimum of server-side (i.e. PHP) code. 
 1. Self-contained with no UI outside of the post editor.
 
-In addition to following the guidelines that apply to all WordPress plugins, Block Plugins that are submitted to the Block Directory must adhere to these guidelines:
+In addition to the guidelines that apply to all WordPress plugins, Block Plugins that are submitted to the Block Directory must adhere to these guidelines:
 
 <h3>Guidelines</h3>
 
