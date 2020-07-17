@@ -17,7 +17,7 @@ The goal of the Block Directory is to provide a safe place for WordPress users t
 
 For the purposes of the Block Directory, we distinguish between two types of plugins:
 1. Plugins that exist solely to distribute a block.
-1. All other plugins, including those that bundle many independent blocks, plugins that contain blocks in addition to other functionality, and plugins with no blocks at all.
+2. All other plugins, including those that bundle many independent blocks, plugins that contain blocks in addition to other functionality, and plugins with no blocks at all.
 
 These guidelines apply specifically to the first type of plugin, which is called a Block Plugin. If a plugin is of the second type, then the further guidelines and restrictions do not apply. All plugins, be they block-only or not, are required to comply with the [Detailed Plugin Guidelines](https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/).
 
@@ -26,9 +26,9 @@ These guidelines apply specifically to the first type of plugin, which is called
 The Block Directory contains only Block Plugins, that is to say plugins that contain only a single, independent, top-level block and a minimum of supporting code. Block plugins have the following characteristics:
 
 1. A specific type of WordPress plugin, with the same structure including a readme.txt file.
-1. Containing only blocks (typically one).
-1. Contain a minimum of server-side (i.e. PHP) code. 
-1. Self-contained with no UI outside of the post editor.
+2. Containing only blocks (typically one).
+3. Contain a minimum of server-side (i.e. PHP) code. 
+4. Self-contained with no UI outside of the post editor.
 
 In addition to the guidelines that apply to all WordPress plugins, Block Plugins that are submitted to the Block Directory must adhere to these guidelines:
 
