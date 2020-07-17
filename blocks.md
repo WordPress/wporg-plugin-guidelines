@@ -64,7 +64,7 @@ The same trademark restrictions for plugin titles exist for block titles and nam
 
 <h4>3a. Block names should be unique and properly namespaced.</h4>
 
-The block name (meaning the [`name` parameter to `registerBlockType()`](https://developer.wordpress.org/block-editor/developers/block-api/block-registration/#block-name) and [`name` in `block.json`](https://github.com/WordPress/gutenberg/blob/master/docs/rfc/block-registration.md#name)) must be unique to your block. As with titles, please avoid names containing trademarks or names you do not legally represent.
+The block name (meaning the [`name` parameter to `registerBlockType()`](https://developer.wordpress.org/block-editor/developers/block-api/block-registration/#block-name) and [`name` in `block.json`](https://github.com/WordPress/gutenberg/blob/master/docs/rfc/block-registration.md#name)) must be unique to the block. As with titles, please respect trademarks and other projects' commonly used names, so as not to conflict with them.
 
 The namespace prefix to the block name should reflect either the plugin author, or the plugin slug. For example:
 
