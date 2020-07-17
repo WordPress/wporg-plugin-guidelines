@@ -84,19 +84,19 @@ Block Plugins must include a valid `block.json` file. In addition to the require
 * At least one of: script, editorScript
 * At least one of: style, editorStyle
 
-<h4>5. Block Plugins must not require payment or a paid account to function.</h4>
+<h4>5. Block Plugins must work independently.</h4>
 
-This includes payment for premium features. You may use the donation link feature.
+Block Plugins must function by themselves without requiring any external dependencies such as another WordPress plugin or theme.
 
-Block plugins that do require a paid service or include upselling and premium features are still permitted in the main WordPress Plugin Directory, subject to its guidelines.
+A Block Plugin may make use of code or hooks in another WordPress plugin or theme, provided the Block Plugin is still usable without that plugin or theme installed. For example, a Recipe Block Plugin is permitted to apply a filter implemented in a slider plugin to improve its image display, as long as the Recipe Block Plugin is still usable without the slider plugin.
 
 <h4>6. Block Plugins should work seamlessly.</h4>
 
 Block Plugins are intended to work seamlessly and instantly when installed from the editor. That means they should not encumber the user with additional steps or prerequisites such as installing another plugin or theme, signing up for an account, or logging in or manually connecting to an external service.
 
-Block Plugins must not require another plugin in order to function.
+This includes payment for premium features. You may use the donation link feature. Block plugins that do require a paid service or include upselling and premium features are still permitted in the main WordPress Plugin Directory, subject to its guidelines.
 
-They may use an external/cloud API where necessary, provided it can be done seamlessly without requiring a login or activation key.
+Block Plugins may use an external/cloud API where necessary, provided it can be done seamlessly without requiring a login or activation key.
 
 They should not rely on an external API or cloud service for functions that could be performed locally.
 
