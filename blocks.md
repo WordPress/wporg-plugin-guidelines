@@ -60,7 +60,7 @@ Please avoid plugin and block titles unrelated to the block itself, or that cann
 `Widget`
 `Image Block`
 
-You must refrain from names and titles that include trademarks or names that you do not legally represent; for example you cannot name a block "Facerange Block" unless you work for Facerange and have their permission.
+The same trademark restrictions for plugin titles exist for block titles and names. This means that a block may not be named "Facerange Block" unless developed by a legal representative of Facerange.
 
 <h4>3a. Block names should be unique and properly namespaced.</h4>
 
