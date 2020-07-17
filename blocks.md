@@ -19,7 +19,7 @@ For the purposes of the Block Directory, we distinguish between two types of plu
 1. Plugins that exist solely to distribute a block.
 1. All other plugins, including those that bundle many independent blocks, plugins that contain blocks in addition to other functionality, and plugins with no blocks at all.
 
-These guidelines apply specifically to the first type of plugin, which we’ll call here a Block Plugin. If your plugin is of the second type, then the further guidelines and restrictions do not apply to your work. All plugins, be they block-only or not, are required to comply with the Detailed Plugin Guidelines https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/.
+These guidelines apply specifically to the first type of plugin, which is called a Block Plugin. If a plugin is of the second type, then the further guidelines and restrictions do not apply. All plugins, be they block-only or not, are required to comply with the [Detailed Plugin Guidelines](https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/).
 
 <h3>Block Plugins and the Block Directory</h3>
 
