@@ -94,7 +94,7 @@ A Block Plugin may make use of code or hooks in another WordPress plugin or them
 
 Block Plugins are intended to work seamlessly and instantly when installed from the editor. That means they should not encumber the user with additional steps or prerequisites such as installing another plugin or theme, signing up for an account, or logging in or manually connecting to an external service.
 
-This includes payment for premium features. You may use the donation link feature. Block plugins that do require a paid service or include upselling and premium features are still permitted in the main WordPress Plugin Directory, subject to its guidelines.
+No form of payment is permitted for the use of a Block Plugin. While it is allowed to use the donation link feature in the plugin's readme, or to link from the full plugin listing, the Block Plugin itself must be free to use. Block plugins that do require a paid service or include upselling and premium features are still permitted in the main WordPress Plugin Directory, subject to its guidelines.
 
 Block Plugins may use an external/cloud API where necessary, provided it can be done seamlessly without requiring a login or activation key.
 
