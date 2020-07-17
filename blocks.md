@@ -15,7 +15,7 @@ The goal of the Block Directory is to provide a safe place for WordPress users t
 
 <h3>Definitions</h3>
 
-First up, some clarity. For the purposes of the Block Directory, we distinguish between two types of plugins:
+For the purposes of the Block Directory, we distinguish between two types of plugins:
 1. Plugins that exist solely to distribute a block.
 1. All other plugins, including those that bundle many independent blocks, plugins that contain blocks in addition to other functionality, and plugins with no blocks at all.
 
