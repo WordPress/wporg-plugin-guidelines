@@ -72,7 +72,7 @@ The namespace prefix to the block name should reflect either the plugin author, 
 `name: "john-doe/rainbow"`, or
 `name: "pluginco/rainbow"`.
 
-The namespace must not be a reserved one such as `core`.
+The namespace may not be a reserved one such as `core` or `wordpress`.
 
 <h4>4. Block Plugins must include a <code>block.json</code> file.</h4>
 
