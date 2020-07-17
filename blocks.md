@@ -23,7 +23,7 @@ These guidelines apply specifically to the first type of plugin, which we’ll c
 
 <h3>Block Plugins and the Block Directory</h3>
 
-The Block Directory contains only Block Plugins, that is to say plugins that contain only a single independent block and a minimum of supporting code. Block plugins have the following characteristics:
+The Block Directory contains only Block Plugins, that is to say plugins that contain only a single, independent, top-level block and a minimum of supporting code. Block plugins have the following characteristics:
 
 1. A specific type of WordPress plugin, with the same structure including a readme.txt file.
 1. Containing only blocks (typically one).
