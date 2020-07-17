@@ -104,7 +104,7 @@ They should not rely on an external API or cloud service for functions that coul
 
 Since Block Plugins are WordPress plugins, they necessarily contain PHP code for metadata and initialisation. As much as possible, they should avoid including additional PHP code or server-side libraries. The WordPress REST API should be the preferred interface to WordPress, rather than custom server-side code.
 
-We recognise that there are limits to the REST API, and situations where server-side PHP is the only performant way to implement a feature. In those situations, PHP code may be included. Please ensure that such code is clearly written, used as little as possible, and well documented.
+There are limits to the REST API, and situations where server-side PHP is the only performant way to implement a feature. In those situations, PHP code may be included, provided it is clearly written, used as little as possible, and well documented.
 
 <h4>8. Must not include advertisements or promotional notices.</h4>
 
