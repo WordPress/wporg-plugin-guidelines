@@ -7,11 +7,14 @@ The goal of the Block Directory is to provide a safe place for WordPress users t
 * Users will have a place they can go, both within their WordPress admin and on WordPress.org, where they can download and install blocks that have been pre-vetted for major security issues. 
 * Users will be able to one-click install blocks from their admin, one at a time.
 * Blocks will appear in their block library after installation and activation.
+* Blocks will work seamlessly and immediately without intrusive advertisements or upselling.
 
 <h3>Developer Expectations</h3>
 
 * Developers will have a concrete set of requirements and guidelines to follow when writing blocks for the Block Directory.
 * Following these guidelines will help ensure that the blocks they develop can be seamlessly installed in the editor.
+* Blocks submitted to the Block Directory are held to stricter technical and policy rules than WordPress plugins in general.
+* Plugins with blocks that do not meet the Block Directory Guidelines may still be submitted to the Plugin Directory.
 
 <h3>Definitions</h3>
 
