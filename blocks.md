@@ -79,7 +79,7 @@ The namespace may not be a reserved one such as `core` or `wordpress`.
 
 <h4>4. Block Plugins must include a <code>block.json</code> file.</h4>
 
-The Block Registration RFC outlines the format of a `block.json` file: https://github.com/WordPress/gutenberg/blob/master/docs/rfc/block-registration.md
+The Block Registration RFC outlines the format of a `block.json` file: https://github.com/WordPress/gutenberg/blob/master/docs/designers-developers/developers/block-api/block-metadata.md
 
 Block Plugins must include a valid `block.json` file. In addition to the requirements specified in the RFC, the `block.json` must include the following attributes:
 * name
@@ -112,5 +112,4 @@ There are limits to the REST API, and situations where server-side PHP is the on
 <h4>8. Must not include advertisements or promotional notices.</h4>
 
 Block Plugins must not include code that displays alerts, dashboard notifications, or similar obtrusive messages unrelated to the purpose of the block.
-
 
