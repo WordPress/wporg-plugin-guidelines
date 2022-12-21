@@ -8,7 +8,11 @@ If you have suggestions to improve the guidelines, or questions about them, plea
 
 <h2>Developer Expectations</h2>
 
-Developers, all users with commit access, and all users who officially support a plugin are expected to abide by the Directory Guidelines. 
+Developers, all users with commit access, and all users who officially support a plugin are expected to abide by the following guidelines:
+
+* Plugin Directory Guidelines (this document)
+* <a href="https://make.wordpress.org/handbook/community-code-of-conduct/">Community Code of Conduct</a>
+* <a href="https://wordpress.org/support/guidelines/">Forums Guidelines</a> (should they use the forums/reviews)
 
 Violations may result in plugins or plugin data (for previously approved plugins) being removed from the directory until the issues are resolved. Plugin data, such as user reviews and code, may not be restored depending on the nature of the violation and the results of a peer-review of the situation. Repeat violations may result in all the author’s plugins being removed and the developer being banned from hosting plugins on WordPress.org.
 
