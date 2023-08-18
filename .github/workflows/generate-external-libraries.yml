@@ -11,6 +11,12 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+    - name: Cache and install jq and perl
+      uses: awalsh128/cache-apt-pkgs-action@latest
+      with:
+        packages: jq perl
+        version: 1.0 # used to clear cache if needed.
+
     - name: Execute run the Script to modify the list of external libraries
       run: ./dev/generate-external-libraries.sh --format=html --file=external-libraries.md
 
