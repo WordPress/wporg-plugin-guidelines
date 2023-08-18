@@ -7,6 +7,11 @@ jobs:
   modify-and-commit:
     runs-on: ubuntu-latest
 
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
@@ -18,10 +23,10 @@ jobs:
         version: 1.0 # used to clear cache if needed.
 
     - name: Execute run the Script to modify the list of external libraries
-      run: ./dev/generate-external-libraries.sh --format=html --file=external-libraries.md
+      run: ./dev/generate-external-libraries.sh --format html --input external-libraries.md
 
     - name: Commit and push if there are changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update list of external libraries to latest version of WordPress.
-        branch: trunk
+        branch: ${{ github.head_ref }}
