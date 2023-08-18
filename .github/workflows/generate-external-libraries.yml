@@ -1,0 +1,21 @@
+name: Update list of External Libraries
+
+on:
+  workflow_dispatch:
+
+jobs:
+  modify-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Execute run the Script to modify the list of external libraries
+      run: ./dev/generate-external-libraries.sh --format=html --file=external-libraries.md
+
+    - name: Commit and push if there are changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Update list of external libraries to latest version of WordPress.
+        branch: trunk
