@@ -1,0 +1,36 @@
+name: Update list of External Libraries
+
+on:
+  workflow_dispatch:
+    inputs:
+      wp_version:
+        description: 'WordPress Version'
+        required: true
+        type: text
+
+jobs:
+  modify-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Cache and install jq and perl
+      uses: awalsh128/cache-apt-pkgs-action@latest
+      with:
+        packages: jq perl
+        version: 1.0 # used to clear cache if needed.
+
+    - name: Execute run the Script to modify the list of external libraries
+      run: ./dev/external-libraries.sh --format html --input external-libraries.md --version ${{ github.event.inputs.wp_version }}
+
+    - name: Commit and push if there are changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Update list of external libraries to latest version of WordPress.
+        branch: ${{ github.head_ref }}

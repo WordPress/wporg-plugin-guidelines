@@ -7,9 +7,9 @@ YELLOW="\033[1;33m"
 RESET="\033[0m"
 
 # Header
-echo -e "${YELLOW}======================================="
-echo -e " WordPress API External Libraries Fetcher Script"
-echo -e "=======================================${RESET}"
+echo -e "${YELLOW}=================================================${RESET}"
+echo -e "${YELLOW} WordPress API External Libraries Fetcher Script ${RESET}"
+echo -e "${YELLOW}=================================================${RESET}"
 echo
 
 # Check if jq is installed
