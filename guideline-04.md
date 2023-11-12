@@ -9,5 +9,8 @@ We require developers to provide public, maintained access to their original sou
 
 We strongly recommend you document how any build tools are to be used.
 
-Original source code must be human readable and not be deliberately obscured.
+Original source code must be the original edit of the code and not minified or otherwise altered after editing. 
+Original source code should be written so it is clearly understandable using sensible naming conventions and comments where appropriate
+and not deliberately obscured or obfuscated.
+
 
