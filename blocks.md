@@ -49,7 +49,7 @@ We want users to interact with blocks, not product names. Block Plugins should b
 
 <h4>4. Block Plugins must include a <code>block.json</code> file.</h4>
 
-The Block Registration RFC outlines the format of a `block.json` file: https://github.com/WordPress/gutenberg/blob/master/docs/rfc/block-registration.md
+The Block Registration RFC outlines the format of a `block.json` file: https://github.com/WordPress/gutenberg/blob/trunk/docs/reference-guides/block-api/block-metadata.md
 
 Block Plugins must include a valid `block.json` file. In addition to the requirements specified in the RFC, the `block.json` must include the following attributes:
 * name
