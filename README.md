@@ -42,6 +42,10 @@ If you feel a guideline’s explanation is unclear, please create an issue or a 
 17. [Plugins must respect trademarks, copyrights, and project names.](https://github.com/wordpress/wporg-plugin-guidelines/blob/master/guideline-17.md)
 18. [We reserve the right to maintain the Plugin Directory to the best of our ability.](https://github.com/wordpress/wporg-plugin-guidelines/blob/master/guideline-18.md)
 
+**Extras:**
+- [Block Specific guidelines](https://github.com/wordpress/wporg-plugin-guidelines/blob/master/blocks.md)
+- [List of External Libraries](https://github.com/wordpress/wporg-plugin-guidelines/blob/master/external-libraries.md)
+
 ## License
 
 The content has two licenses:
